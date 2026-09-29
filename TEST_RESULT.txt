@@ -1,0 +1,7 @@
+Test command:
+python -m unittest discover -s tests -v
+
+Result:
+10 tests ran successfully.
+
+Final result: OK
